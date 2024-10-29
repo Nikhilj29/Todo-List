@@ -29,8 +29,8 @@ export default function SideBar() {
 
             </div>
             <div className="space">
-                <NotificationsRoundedIcon sx={{ width: "2.5rem", height: "2.5rem", color: "#705C53" }} />
-                <HelpRoundedIcon sx={{ width: "2.5rem", height: "2.5rem", color: "#705C53" }} />
+                // <NotificationsRoundedIcon sx={{ width: "2.5rem", height: "2.5rem", color: "#705C53" }} />
+                // <HelpRoundedIcon sx={{ width: "2.5rem", height: "2.5rem", color: "#705C53" }} />
             </div>
         </div>
     );
