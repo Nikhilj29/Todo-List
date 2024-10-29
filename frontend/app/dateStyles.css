@@ -1,0 +1,38 @@
+.calendar {
+    border-collapse: collapse;
+    width: 80%;
+    /* Adjust width as needed */
+}
+
+th {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    height: 20px;
+    width: 50px;
+    border: 5px #705C53 solid;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+td {
+    border: 1px solid #ddd;
+    padding: 20px;
+    text-align: center;
+    height: 50px;
+    width: 50px;
+    border: 5px #705C53 solid;
+}
+
+.empty {
+    visibility: hidden;
+    /* Keeps the grid aligned without visible cells */
+}
+
+.weekday {
+    font-weight: bold;
+    background-color: #f2f2f2;
+    /* Light background for headers */
+} 
