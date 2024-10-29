@@ -20,12 +20,12 @@ export default function InputSide() {
                 </div>
 
                 <div style={{ display: "flex", flexDirection: "column" }}>
-                    <Link href="/input">
-                        <Button style={{ color: "black", marginTop: "1rem" }}> <CheckCircleRoundedIcon sx={{ color: "#705C53", height: "1.5rem", width: "1.5rem" }} />Completed</Button>
-                    </Link>
-                    <Link href="/input">
-                        <Button style={{ color: "black", marginTop: "1rem" }}> <DeleteRoundedIcon sx={{ color: "#705C53", height: "1.5rem", width: "1.5rem" }} />Delete</Button>
-                    </Link>
+                    // <Link href="/input">
+                    //     <Button style={{ color: "black", marginTop: "1rem" }}> <CheckCircleRoundedIcon sx={{ color: "#705C53", height: "1.5rem", width: "1.5rem" }} />Completed</Button>
+                    // </Link>
+                    // <Link href="/input">
+                    //     <Button style={{ color: "black", marginTop: "1rem" }}> <DeleteRoundedIcon sx={{ color: "#705C53", height: "1.5rem", width: "1.5rem" }} />Delete</Button>
+                    // </Link>
                 </div>
 
             </div>
