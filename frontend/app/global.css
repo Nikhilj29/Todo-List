@@ -1,0 +1,40 @@
+.spinner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 100vh;
+    width: 100%;
+    background-color: aliceblue;
+    position: fixed;
+}
+
+.sidebar {
+    width: 2.6rem;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #F5F5F7;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+
+
+.space {
+    display: "flex";
+    justify-content: space-between;
+}
+
+.inputSide {
+    width: 15rem;
+    height: 98vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #F5F5F7;
+    margin-left: 1rem;
+    color: black;
+    justify-content: space-between;
+}
